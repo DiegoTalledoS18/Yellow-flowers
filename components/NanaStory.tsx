@@ -17,7 +17,7 @@ export default function NanaStory({ onNext }: Props) {
         <h2>Después te fuiste a Ñaña...</h2>
 
         <p className="nana-intro">
-          Y ahí empezó mi pequeña misión imposible. 🫡
+          Y yo busque florerias en ñaña. 🫡
         </p>
 
         <div className="attempts">
@@ -36,7 +36,7 @@ export default function NanaStory({ onNext }: Props) {
         <p className="nana-bottom">
           Busqué, pregunté, insistí...
           <br />
-          pero ninguna flor quería llegar hasta Ñaña. 😭
+          pero ninguna floreria quería llegar. 😭
         </p>
 
         <button className="main-button" onClick={onNext}>

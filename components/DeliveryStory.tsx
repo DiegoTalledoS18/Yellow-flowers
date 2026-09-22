@@ -34,7 +34,7 @@ export default function DeliveryStory({ onNext }: Props) {
           <span>🥲</span>
           <div>
             <strong>Y no llegábamos a tiempo.</strong>
-            <p>La misión flores amarillas se complicaba.</p>
+            <p>Ash, la misión flores amarillas se ponia dificil.</p>
           </div>
         </div>
 
